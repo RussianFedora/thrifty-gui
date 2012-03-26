@@ -91,3 +91,4 @@ rm -rf $RPM_BUILD_ROOT
 
 * Tue Mar 06 2012 Fl@sh <kaperang07@gmail.com> - 0.10-1
 - Initial build
+ 
