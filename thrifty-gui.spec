@@ -5,7 +5,7 @@ Summary: Utility for archiving or cleaning "rpmdb-out" files
 Summary(ru): Утилита для архивирования и очистки "не-пакетных" файлов
 Group: Applications/System
 License: GPLv2+
-Source0: %{name}-%{version}.tar.bz2
+Source0: http://cloud.github.com/downloads/F1ash/thrifty-gui/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 URL: https://github.com/F1ash/thrifty-gui
 BuildArch: noarch
